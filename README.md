@@ -1,4 +1,4 @@
-# Webisite whith Django
+# Website whith Django
 
 ## Instalação
 
